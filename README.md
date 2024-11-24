@@ -13,9 +13,8 @@ We will use the breast cancer dataset available in the `sklearn` library. This d
 
 ### 1. Loading and Preprocessing 
 ### 2. Classification Algorithm Implementation 
-
 Implemented five classification algorithms to evaluate their performance on this dataset.  
-
+### 3. Model Comparison
 After training and validating all five algorithms, we compared their performance based on accuracy:  
 
 ### Conclusion  
